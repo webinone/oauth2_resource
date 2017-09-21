@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: com.h2database:h2:">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Could not find com.h2database:h2:.&#10;Searched in the following locations:&#10;    file:/home/foresight/.m2/repository/com/h2database/h2/h2-.pom&#10;    file:/home/foresight/.m2/repository/com/h2database/h2/h2-.jar&#10;    https:/repo1.maven.org/maven2/com/h2database/h2/h2-.pom&#10;    https:/repo1.maven.org/maven2/com/h2database/h2/h2-.jar&#10;    https:/jcenter.bintray.com/com/h2database/h2/h2-.pom&#10;    https:/jcenter.bintray.com/com/h2database/h2/h2-.jar&#10;    http:/repo.spring.io/snapshot/com/h2database/h2/h2-.pom&#10;    http:/repo.spring.io/snapshot/com/h2database/h2/h2-.jar&#10;    http:/oss.sonatype.org/content/repositories/snapshots/com/h2database/h2/h2-.pom&#10;    http:/oss.sonatype.org/content/repositories/snapshots/com/h2database/h2/h2-.jar&#10;    http:/download.java.net/maven/2/com/h2database/h2/h2-.pom&#10;    http:/download.java.net/maven/2/com/h2database/h2/h2-.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
