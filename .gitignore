@@ -10,8 +10,8 @@
 .DS_Store
 .classpath
 .factorypath
-.gradle
-.idea
+/.gradle
+/.idea
 .metadata
 .project
 .recommenders
