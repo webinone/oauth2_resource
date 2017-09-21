@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id=":module-web:test" external.linked.project.path="$MODULE_DIR$/../../../module-web" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.coway" external.system.module.type="sourceSet" external.system.module.version="0.0.1" type="JAVA_MODULE" version="4">
+<<<<<<< Updated upstream
   <component name="FacetManager">
     <facet type="Spring" name="Spring">
       <configuration />
@@ -7,11 +8,19 @@
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output-test url="file://$MODULE_DIR$/../../../module-web/out/test/classes" />
+=======
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../../module-web/build/classes/test" />
+>>>>>>> Stashed changes
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../module-web/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../../module-web/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../module-web/src/test/resources" type="java-test-resource" />
+<<<<<<< Updated upstream
       <sourceFolder url="file://$MODULE_DIR$/../../../module-web/src/test/resources-foresight-gs70-2pe-stealth-pro" type="java-test-resource" />
+=======
+      <sourceFolder url="file://$MODULE_DIR$/../../../module-web/src/test/resources-foresight-laptop" type="java-test-resource" />
+>>>>>>> Stashed changes
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -20,6 +29,7 @@
     <orderEntry type="library" name="Gradle: commons-io:commons-io:2.5" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.6" level="project" />
     <orderEntry type="module" module-name="module-shared_main" />
+<<<<<<< Updated upstream
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -29,6 +39,9 @@
         <SOURCES />
       </library>
     </orderEntry>
+=======
+    <orderEntry type="module" module-name="module-biz_main" />
+>>>>>>> Stashed changes
     <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-test:1.5.6.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: io.github.jhipster:jhipster:1.1.8" level="project" />
